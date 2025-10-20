@@ -1,0 +1,17 @@
+D:\asp_apps\QuizeService\src\QuizeService.Application\bin\Debug\net9.0\QuizeService.Application.deps.json
+D:\asp_apps\QuizeService\src\QuizeService.Application\bin\Debug\net9.0\QuizeService.Application.dll
+D:\asp_apps\QuizeService\src\QuizeService.Application\bin\Debug\net9.0\QuizeService.Application.pdb
+D:\asp_apps\QuizeService\src\QuizeService.Application\bin\Debug\net9.0\QuizeService.Domain.dll
+D:\asp_apps\QuizeService\src\QuizeService.Application\bin\Debug\net9.0\QuizeService.Domain.pdb
+D:\asp_apps\QuizeService\src\QuizeService.Application\obj\Debug\net9.0\QuizeService.Application.csproj.AssemblyReference.cache
+D:\asp_apps\QuizeService\src\QuizeService.Application\obj\Debug\net9.0\QuizeService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp_apps\QuizeService\src\QuizeService.Application\obj\Debug\net9.0\QuizeService.Application.AssemblyInfoInputs.cache
+D:\asp_apps\QuizeService\src\QuizeService.Application\obj\Debug\net9.0\QuizeService.Application.AssemblyInfo.cs
+D:\asp_apps\QuizeService\src\QuizeService.Application\obj\Debug\net9.0\QuizeService.Application.csproj.CoreCompileInputs.cache
+D:\asp_apps\QuizeService\src\QuizeService.Application\obj\Debug\net9.0\QuizeSer.6A3EEE10.Up2Date
+D:\asp_apps\QuizeService\src\QuizeService.Application\obj\Debug\net9.0\QuizeService.Application.dll
+D:\asp_apps\QuizeService\src\QuizeService.Application\obj\Debug\net9.0\refint\QuizeService.Application.dll
+D:\asp_apps\QuizeService\src\QuizeService.Application\obj\Debug\net9.0\QuizeService.Application.pdb
+D:\asp_apps\QuizeService\src\QuizeService.Application\obj\Debug\net9.0\ref\QuizeService.Application.dll
+D:\asp_apps\QuizeService\src\QuizeService.Application\bin\Debug\net9.0\QuizeService.Contracts.dll
+D:\asp_apps\QuizeService\src\QuizeService.Application\bin\Debug\net9.0\QuizeService.Contracts.pdb

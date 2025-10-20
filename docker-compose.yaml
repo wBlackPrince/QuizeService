@@ -1,0 +1,15 @@
+services:
+  postgres:
+    container_name: postgres-quize-service
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_DB: quize-service
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5460:5432"
+    volumes:
+      - postgres-quize-service-data:/var/lib/postgresql/data
+volumes:
+  postgres-quize-service-data:

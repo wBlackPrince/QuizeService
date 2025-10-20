@@ -1,0 +1,12 @@
+D:\asp_apps\QuizeService\src\QuizeService.Domain\bin\Debug\net9.0\QuizeService.Domain.deps.json
+D:\asp_apps\QuizeService\src\QuizeService.Domain\bin\Debug\net9.0\QuizeService.Domain.dll
+D:\asp_apps\QuizeService\src\QuizeService.Domain\bin\Debug\net9.0\QuizeService.Domain.pdb
+D:\asp_apps\QuizeService\src\QuizeService.Domain\obj\Debug\net9.0\QuizeService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp_apps\QuizeService\src\QuizeService.Domain\obj\Debug\net9.0\QuizeService.Domain.AssemblyInfoInputs.cache
+D:\asp_apps\QuizeService\src\QuizeService.Domain\obj\Debug\net9.0\QuizeService.Domain.AssemblyInfo.cs
+D:\asp_apps\QuizeService\src\QuizeService.Domain\obj\Debug\net9.0\QuizeService.Domain.csproj.CoreCompileInputs.cache
+D:\asp_apps\QuizeService\src\QuizeService.Domain\obj\Debug\net9.0\QuizeService.Domain.dll
+D:\asp_apps\QuizeService\src\QuizeService.Domain\obj\Debug\net9.0\refint\QuizeService.Domain.dll
+D:\asp_apps\QuizeService\src\QuizeService.Domain\obj\Debug\net9.0\QuizeService.Domain.pdb
+D:\asp_apps\QuizeService\src\QuizeService.Domain\obj\Debug\net9.0\ref\QuizeService.Domain.dll
+D:\asp_apps\QuizeService\src\QuizeService.Domain\obj\Debug\net9.0\QuizeService.Domain.csproj.AssemblyReference.cache

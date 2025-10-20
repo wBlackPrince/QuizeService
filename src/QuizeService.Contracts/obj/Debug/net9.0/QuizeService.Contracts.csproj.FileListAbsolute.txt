@@ -1,0 +1,11 @@
+D:\asp_apps\QuizeService\src\QuizeService.Contracts\bin\Debug\net9.0\QuizeService.Contracts.deps.json
+D:\asp_apps\QuizeService\src\QuizeService.Contracts\bin\Debug\net9.0\QuizeService.Contracts.dll
+D:\asp_apps\QuizeService\src\QuizeService.Contracts\bin\Debug\net9.0\QuizeService.Contracts.pdb
+D:\asp_apps\QuizeService\src\QuizeService.Contracts\obj\Debug\net9.0\QuizeService.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp_apps\QuizeService\src\QuizeService.Contracts\obj\Debug\net9.0\QuizeService.Contracts.AssemblyInfoInputs.cache
+D:\asp_apps\QuizeService\src\QuizeService.Contracts\obj\Debug\net9.0\QuizeService.Contracts.AssemblyInfo.cs
+D:\asp_apps\QuizeService\src\QuizeService.Contracts\obj\Debug\net9.0\QuizeService.Contracts.csproj.CoreCompileInputs.cache
+D:\asp_apps\QuizeService\src\QuizeService.Contracts\obj\Debug\net9.0\QuizeService.Contracts.dll
+D:\asp_apps\QuizeService\src\QuizeService.Contracts\obj\Debug\net9.0\refint\QuizeService.Contracts.dll
+D:\asp_apps\QuizeService\src\QuizeService.Contracts\obj\Debug\net9.0\QuizeService.Contracts.pdb
+D:\asp_apps\QuizeService\src\QuizeService.Contracts\obj\Debug\net9.0\ref\QuizeService.Contracts.dll
