@@ -15,3 +15,4 @@ D:\asp_apps\QuizeService\src\QuizeService.Application\obj\Debug\net9.0\QuizeServ
 D:\asp_apps\QuizeService\src\QuizeService.Application\obj\Debug\net9.0\ref\QuizeService.Application.dll
 D:\asp_apps\QuizeService\src\QuizeService.Application\bin\Debug\net9.0\QuizeService.Contracts.dll
 D:\asp_apps\QuizeService\src\QuizeService.Application\bin\Debug\net9.0\QuizeService.Contracts.pdb
+D:\asp_apps\QuizeService\src\QuizeService.Application\obj\Debug\net9.0\QuizeService.Application.sourcelink.json

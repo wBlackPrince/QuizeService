@@ -7,7 +7,11 @@ public static class DependencyInjection
 {
     public static IServiceCollection AddApplication(this IServiceCollection services)
     {
+        services.AddScoped<GetTestByIdUseCase>();
         services.AddScoped<CreateTestUseCase>();
+        services.AddScoped<AddMatchQuestionUseCase>();
+        services.AddScoped<AddSingleChoiceQuestionUseCase>();
+        services.AddScoped<AddTextInputQuestionUseCase>();
 
         return services;
     }

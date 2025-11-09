@@ -10,3 +10,4 @@ D:\asp_apps\QuizeService\src\QuizeService.Domain\obj\Debug\net9.0\refint\QuizeSe
 D:\asp_apps\QuizeService\src\QuizeService.Domain\obj\Debug\net9.0\QuizeService.Domain.pdb
 D:\asp_apps\QuizeService\src\QuizeService.Domain\obj\Debug\net9.0\ref\QuizeService.Domain.dll
 D:\asp_apps\QuizeService\src\QuizeService.Domain\obj\Debug\net9.0\QuizeService.Domain.csproj.AssemblyReference.cache
+D:\asp_apps\QuizeService\src\QuizeService.Domain\obj\Debug\net9.0\QuizeService.Domain.sourcelink.json

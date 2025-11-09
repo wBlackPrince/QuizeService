@@ -9,3 +9,4 @@ D:\asp_apps\QuizeService\src\QuizeService.Contracts\obj\Debug\net9.0\QuizeServic
 D:\asp_apps\QuizeService\src\QuizeService.Contracts\obj\Debug\net9.0\refint\QuizeService.Contracts.dll
 D:\asp_apps\QuizeService\src\QuizeService.Contracts\obj\Debug\net9.0\QuizeService.Contracts.pdb
 D:\asp_apps\QuizeService\src\QuizeService.Contracts\obj\Debug\net9.0\ref\QuizeService.Contracts.dll
+D:\asp_apps\QuizeService\src\QuizeService.Contracts\obj\Debug\net9.0\QuizeService.Contracts.sourcelink.json

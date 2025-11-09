@@ -139,3 +139,4 @@ D:\asp_apps\QuizeService\src\QuizeService.Web\bin\Debug\net9.0\Swashbuckle.AspNe
 D:\asp_apps\QuizeService\src\QuizeService.Web\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\asp_apps\QuizeService\src\QuizeService.Web\bin\Debug\net9.0\QuizeService.Contracts.dll
 D:\asp_apps\QuizeService\src\QuizeService.Web\bin\Debug\net9.0\QuizeService.Contracts.pdb
+D:\asp_apps\QuizeService\src\QuizeService.Web\obj\Debug\net9.0\QuizeService.Web.sourcelink.json
